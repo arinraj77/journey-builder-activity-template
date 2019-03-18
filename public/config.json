@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/%2380098347-a4df-4b6a-b2c9-3893320bfa2f/1",
+          "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -33,22 +33,22 @@
     "configurationArguments": {
       "applicationExtensionKey": "541d08a3-7710-425a-ab90-1de97c806f7d",
       "save": {
-        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/%2380098347-a4df-4b6a-b2c9-3893320bfa2f/1/save",
+        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/%2380098347-a4df-4b6a-b2c9-3893320bfa2f/1/publish",
+        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/%2380098347-a4df-4b6a-b2c9-3893320bfa2f/1/stop",
+        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/%2380098347-a4df-4b6a-b2c9-3893320bfa2f/1/validate",
+        "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/validate",
         "verb": "POST",
         "useJwt": true
       }
