@@ -8,7 +8,7 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Custom",
+            "name": "Postcard",
           "description": "A Template for a custom Journey Builder activity",
           "step1Label": "Configure Activity"
         }
@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "fd620b67-e145-40b2-9751-10b0bd57b4a3",
+      "applicationExtensionKey": "541d08a3-7710-425a-ab90-1de97c806f7d",
       "save": {
         "url": "https://mc.s7.exacttarget.com/journeybuilder/save",
           "verb": "POST",
