@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "541d08a3-7710-425a-ab90-1de97c806f7d",
+      "applicationExtensionKey": "553468cb-00f7-4a05-80b9-41a9bddb1b0c",
       "save": {
         "url": "https://mc.s7.exacttarget.com/cloud/#app/Journey%20Builder/save",
           "verb": "POST",
